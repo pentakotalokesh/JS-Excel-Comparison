@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "exceljs": "^4.4.0",
+    "lodash": "^4.17.21",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
+  }
+}
